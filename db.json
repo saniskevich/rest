@@ -1,26 +1,11 @@
-[{
-	"get": [{
-		"success": true,
-		"body": {
-			"cases": [{
-					"caseId": "123-123",
-					"caseNumber": "123432",
-					"caseType": "Cash",
-					"caseStatus": "New",
-					"caseOwner": "Иванов Дмитрий Сергеевич",
-					"clientFIO": "Ушкин Сергей Викторович",
-					"clientEPKId": "23-23453234"
-				},
-				{
-					"caseId": "123-123",
-					"caseNumber": "123432",
-					"caseType": "Cash",
-					"caseStatus": "New",
-					"caseOwner": "Рябкин Александр Сергеевич",
-					"clientFIO": "Ушкин Сергей Викторович",
-					"clientEPKId": "13-23453234"
-				}
-			]
-		}
-	}]
-}]
+{
+  "get": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
